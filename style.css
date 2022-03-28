@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    border-radius: 150%;
+    border-style: solid;
+    border-color: darkgoldenrod;
+    justify-content: center;
+    height: 220px;
+    width: 220px;
+    margin-top: 50%;
+    margin-left: 85px;
+}
+
+.background {
+    width: 400px;
+    height: 100vh;
+    background-color: goldenrod;
+    
+}
+
+.links {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.titulo1 {
+    font-size: 100px;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    margin-top: -655px;
+    margin-left: 500px;
+    left: 50%;
+}
+
+.titulo2 {
+    color: goldenrod;
+    font-family: sans-serif;
+}
+
+.address {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-left: 505px;
+    margin-top: -100px;
+
+}
+
+.btn {
+    height: 70px;
+    line-height: 70px;
+    width: 70px;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    margin-top: 200px;
+    margin-left: 505px;
+}
+
+.descricao {
+    margin-top: 45px;
+    margin-left: 505px;
+    font-size: 17px;
+    
+}
+
+.conhecimentos {
+    font-size: 27px;
+    font-family: sans-serif;
+    margin-top: -500px;
+    margin-left: 505px;
+}
+
+.objetivo {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: -500px;
+    margin-left: 505px;
+}
